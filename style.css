@@ -6,7 +6,15 @@
 }
 
 .maindiv{
-    padding-left: 50px;
-    margin-top: 50px;
-    color: red;
+    margin: 50px auto 50px;
+    color: white;
+    font-weight: bold;
+
+}
+
+.dosomething{
+    margin: 0px auto 50px;
+    color: rgb(186, 238, 186);
+    font-weight: bold;
+    font-style: italic;
 }
