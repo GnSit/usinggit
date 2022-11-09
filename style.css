@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(46, 148, 179);
+    color: white;
+}
+
+.maindiv{
+    padding-left: 50px;
+    margin-top: 50px;
+}
